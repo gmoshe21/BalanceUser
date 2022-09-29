@@ -2,7 +2,8 @@
 
 Запуск go run cmd/main.go  
 В файле config/config.json конфигурации сервера
-Имеется 4 запроса :  
+Имеется 4 запроса :
+
     POST /control/debiting_money  
         принимает json в теле вида :  
                         {  
